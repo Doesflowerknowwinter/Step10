@@ -25,5 +25,3 @@ int main()
 		printf("%d\n", num[i]);
 	}
 }
-
-//123123123 tset
